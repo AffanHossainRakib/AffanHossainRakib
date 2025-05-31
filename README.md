@@ -1,41 +1,77 @@
-<!-- ### Hi there 👋
-**AffanHossainRakib/AffanHossainRakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamu+Alaikum!+👋;+I'm+Md.+Affan+Hossain+Rakib!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Passionate Learner | Aspiring MERN Full Stack Developer | Problem Solver from Bangladesh 🇧🇩</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
+<div align="center">
+ 
+ 🔭 I'm currently working on **MERN Stack Projects**
+ 
+ 🌱 I'm currently learning **Full Stack Development & Advanced JavaScript**
+ 
+ 👯 I'm looking to collaborate on **Open Source Projects**
 
-<h1 align="center">Assalamu Alaikum, I'm Md. Affan Hossain rakib</h1>
-<h3 align="center">Passionate Learner | Aspiring MERN Full Stack Developer</h3>
+ 💬 Ask me about **Python, JavaScript, MERN Stack... or anything [here](https://github.com/AffanHossainRakib/AffanHossainRakib/issues)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=affanhossainrakib&label=Profile%20views&color=0e75b6&style=flat" alt="affanhossainrakib" /> </p>
+ 📫 How to reach me **affanhossainrakib@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affanhossainrakib" alt="affanhossainrakib" /></a> </p>
+ ⚡ Fun fact **I love solving coding challenges and building innovative solutions**
 
-- 💬 Ask me about **Python**, **JavaScript**, **C++**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:affanhossainrakib@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/affanhossainrakib" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://facebook.com/affanhossainrakib/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 📫 How to reach me **affanhossainrakib@gmail.com**
+ <hr/>
+ 
+<h2 align="center">Languages-Frameworks-Tools 💻</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,ts,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,vscode,github,figma,mysql,nextjs,supabase" /><br>
+</div>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/affanhossainrakib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="affanhossainrakib" height="30" width="40" /></a>
-<a href="https://facebook.com/affanhossainrakib/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="affanhossainrakib" height="30" width="40" /></a>
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=affanhossainrakib&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=affanhossainrakib&theme=react&hide_border=true" alt=""/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanhossainrakib&theme=react&show_icons=true&hide_border=true&layout=compact" alt=""/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=affanhossainrakib&show_icons=true&locale=en&layout=compact" alt="affanhossainrakib" /></p>
+<div align="center">
+  <h2>📈 Activity Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=affanhossainrakib&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=affanhossainrakib&show_icons=true&locale=en" alt="affanhossainrakib" /></p>
+<div align="center">
+    <h2>🎯 LeetCode Stats</h2>
+    <a href="https://leetcode.com/u/AffanHossainRakib/" target="_blank">
+        <img src="https://leetcode-stats.vercel.app/api?username=AffanHossainRakib&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&include_all_commits=true" alt="LeetCode Stats"/>
+    </a>
+</div>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=affanhossainrakib&" alt="affanhossainrakib" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=affanhossainrakib&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+<br/>
+<hr/>
